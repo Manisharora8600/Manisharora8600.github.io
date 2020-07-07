@@ -24,7 +24,7 @@ body {
 
 .landing {
   position: relative;
-  background-image: url("/showcase.8e2e20e8.jpg");
+  background-image: url("../img/showcase.jpg");
   background-size: cover;
   background-position: center;
   height: 100vh;
@@ -108,6 +108,3 @@ body {
     display: none;
   }
 }
-
-
-/*# sourceMappingURL=/style.78032849.css.map */
